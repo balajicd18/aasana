@@ -1,7 +1,6 @@
 // src/pages/Dashboard.jsx
 import React, { useEffect, useState } from 'react';
 import {createColumnHelper,flexRender, getCoreRowModel, getFilteredRowModel,getSortedRowModel,useReactTable,getPaginationRowModel} from "@tanstack/react-table";
-import {mockData} from "../assests/data";
 import {ArrowUpDown,ChevronLeft,ChevronRight,ChevronsLeft,ChevronsRight,Search,User,Calendar,Code,Workflow, Eye,Phone } from "lucide-react";
 import nodata from '../assests/images/noData.webp'
 import axios from 'axios';

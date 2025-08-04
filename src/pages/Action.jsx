@@ -1,7 +1,5 @@
 import React, { useEffect, useState } from "react";
 import { Link, Links, useLocation, } from "react-router-dom";
-
-import { actionSummary, actionImage } from "../assests/data";
 import axios from "axios";
 
 
