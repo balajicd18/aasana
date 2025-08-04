@@ -6,7 +6,6 @@ import Dashboard from './pages/Dashboard';
 import Action from './pages/Action';
 import Login from './pages/Login';
 import { ToastContainer } from 'react-toastify';
-import Diagnosis from './pages/diagnosis';
 import PatientInfo from './pages/PatientInfo';
 
 const App = () => {
